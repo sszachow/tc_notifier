@@ -1,0 +1,13 @@
+# Compiled source #
+###################
+*.o
+*.bin
+*.axf
+
+# List files #
+##############
+*.lst
+
+# Other files #
+###############
+*.d
